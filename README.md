@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hola a todos👋
 
+Esta es mi primera interaccion con GitHub. Actualmente estoy estudiando de manera autodidacta Python, con el objetivo de tener una carrera profesional en el area de programación. 
+
+Espero pronto poder colaborar en distintos proyectos que me ayuden a crecer y poner mis ideas en marcha!
 <!--
 **AMJoshua33/AMJoshua33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
